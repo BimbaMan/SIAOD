@@ -1,0 +1,9 @@
+﻿  PriorityQueue.cpp
+C:\Users\Иван\Desktop\QueueCApp\QueueCApp\PriorityQueue.cpp(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\QueueCApp\QueueCApp\PriorityQueue.cpp(71,11): warning C4018: <: несоответствие типов со знаком и без знака
+  QueueCApp.cpp
+C:\Users\Иван\Desktop\QueueCApp\QueueCApp\QueueCApp.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\QueueCApp\QueueCApp\QueueCApp.cpp(30,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\QueueCApp\QueueCApp\QueueCApp.cpp(59,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  QueueCApp.vcxproj -> C:\Users\Иван\Desktop\QueueCApp\Debug\QueueCApp.exe
